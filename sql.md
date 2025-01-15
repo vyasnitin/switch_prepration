@@ -10,3 +10,5 @@ In this segment, I will write all the queries and learning related to SQL.
 - **SELECT**: Retrieve data from a database.
   ```sql
   SELECT * FROM table_name;
+
+  
