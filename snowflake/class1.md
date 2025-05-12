@@ -16,3 +16,9 @@ data storge layer
 *Data storage layer*
 
 
+*micro partition*
+
+
+
+
+
