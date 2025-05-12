@@ -6,7 +6,7 @@ multiple cluster connected to single disk storage
 single cluster node is connected to single storage 
 
 There are three layers in snowflake 
-cloud services query processing and data layer 
+cloud services */n* query processing and data layer 
 
 what are this three layer will do 
 cloud layer 
